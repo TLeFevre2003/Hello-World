@@ -8,7 +8,7 @@ This software's purpose is to write "Hello World" to the terminal.
 My purpose for creating this software is to build my skills.
 
 
-[Software Demo Video](https://www.youtube.com/watch?v=lxTNVOp3yDE)
+[Software Demo Video](https://youtu.be/vO2AvVCtmJA)
 
 # Development Environment
 
